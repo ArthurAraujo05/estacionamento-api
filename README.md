@@ -122,8 +122,3 @@ Execute os testes com:
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT. Sinta-se livre para usar e modificar!
-
----
-
-Feito com 💙 por [Seu Nome]
-
